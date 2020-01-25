@@ -6,6 +6,7 @@ Repositório referente ao curso de algoritmos do professor Gustavo Guanabara
 ## VISUALG 3.0
 
 Todos os algoritmos são em Portugol, feitos com programa Visualg
+
 [Download - VISUALG 3.0](https://sourceforge.net/projects/visualg30/)
 
 
