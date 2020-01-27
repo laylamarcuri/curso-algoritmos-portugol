@@ -1,11 +1,8 @@
 Algoritmo "soma"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina  :  [Linguagem e Logica de Programacao]
 // Data atual  : 24/01/2020
 Var
-// Seção de Declarações das variáveis 
+// Seção de Declaracoes das variaveis
    N1, N2, S: inteiro
 
 Inicio

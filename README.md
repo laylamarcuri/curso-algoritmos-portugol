@@ -5,9 +5,15 @@ Repositório referente ao curso de algoritmos do professor Gustavo Guanabara
 
 ## VISUALG 3.0
 
-Todos os algoritmos são em Portugol, feitos com programa Visualg
+Algoritmos em Portugol, feitos com programa Visualg
 
 [Download - VISUALG 3.0](https://sourceforge.net/projects/visualg30/)
+
+## Scratch 3.0.6
+
+Algoritmos na forma como os blocos, a partir da aula 5, feitos com programa Scratch
+
+[Download - Scratch 3.0.6](https://scratch.mit.edu/download)
 
 
 

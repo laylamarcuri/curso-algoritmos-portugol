@@ -1,11 +1,8 @@
 Algoritmo "Triangulos"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 25/01/2020
+// Disciplina  :  [Linguagem e Logica de Programacao]
+// Data atual  : 24/01/2020
 Var
-// Seção de Declarações das variáveis 
+// Seção de Declaracoes das variaveis
  L1, L2, L3: REAL
  EQ, ES, TRI:Logico
 Inicio
